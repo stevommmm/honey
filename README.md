@@ -1,0 +1,4 @@
+honey
+=====
+
+Simple extendable honeypot
